@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\HP\Desktop\Graphics_HW\HW2\OpenGLES_HW2\app\.cxx\cmake\debug\armeabi-v7a'
+ninja: no work to do.
